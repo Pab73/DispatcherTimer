@@ -1,0 +1,15 @@
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\bin\Debug\WpfApp31.1.exe.config
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\bin\Debug\WpfApp31.1.exe
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\bin\Debug\WpfApp31.1.pdb
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.csprojAssemblyReference.cache
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\MainWindow.g.cs
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\App.g.cs
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1_MarkupCompile.cache
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1_MarkupCompile.lref
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\MainWindow.baml
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.g.resources
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31._1.Properties.Resources.resources
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.csproj.GenerateResource.cache
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.csproj.CoreCompileInputs.cache
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.exe
+C:\Users\XYZ\source\repos\WpfApp31.1\WpfApp31.1\obj\Debug\WpfApp31.1.pdb
